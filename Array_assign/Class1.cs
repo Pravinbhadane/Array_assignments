@@ -45,7 +45,7 @@ namespace Array_assign
             {
                 Console.Write(item);
             }
-            Console.WriteLine();
+            Console.WriteLine(); 
         }
     }
 }
